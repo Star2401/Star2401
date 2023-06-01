@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there👋 My name is Esther
+- 😄 I love working with Excel, SQL and Tableau
+- 🌱 I am a Data Analyst that is always learning and growing
+
 
 <!--
 **Star2401/Star2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
