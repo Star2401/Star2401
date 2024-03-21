@@ -1,6 +1,6 @@
 ### Hi there👋 My name is Esther
-- 😄 I love working with Excel, SQL and Tableau
-- 🌱 I am a Data Analyst that is always learning and growing
+- 😄 I love working with Excel, SQL, and Tableau. But more importantly, data.
+- 🌱 Always learning and growing
 
 
 <!--
