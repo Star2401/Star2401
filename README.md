@@ -1,7 +1,7 @@
 ### Hi there👋 My name is Esther
-- 😄 I love working with Excel, SQL, and Tableau. But more importantly, data.
+- 😄 Data Analyst transitioning into Information Systems
 - 🌱 Always learning and growing
-
+- 🔭 I’m currently working on a PhD
 
 <!--
 **Star2401/Star2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
